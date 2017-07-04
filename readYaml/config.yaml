@@ -1,0 +1,16 @@
+daily:
+  use: 1
+  lifetime: 7
+week:
+  use: 1
+  lifetime: 5
+  day_of_week: 0 
+month:
+  use: 1
+  lifetime: 12
+  day_of_month: 1
+year:
+  use: 1
+  lifetime: 12
+  month_of_year: 1
+  day_of_month: 1
